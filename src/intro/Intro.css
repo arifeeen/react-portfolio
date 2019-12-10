@@ -1,0 +1,37 @@
+.intro {
+    text-align:center;
+    background-color: rgb(73, 66, 66);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.nameSize {
+    font-size: 20px;
+}
+.textSize {
+    font-size: 16px;
+}
+.spanName {
+    
+}
+
+.spanData {
+    margin-left:5px;
+    color: lightgray
+}
+
+@media (min-width: 480px) {
+    .intro {
+        text-align: left;
+        padding: 20px 20px;
+    }
+
+    .textSize {
+        font-size: 25px;
+    }
+    .nameSize {
+        font-size: 30px;
+    }
+    
+}

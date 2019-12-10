@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react';
-
+import Intro from './intro/Intro';
 
 class App extends Component {
   render() {
@@ -8,7 +8,7 @@ class App extends Component {
       <Fragment>
 
 
-
+      <Intro></Intro>
       </Fragment>
 
     );
