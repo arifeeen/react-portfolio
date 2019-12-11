@@ -20,7 +20,7 @@ const Experience = () => {
                         Infosys
                     </div>
                     <div>
-                        Responsibilities:
+                        <strong>Responsibilities:</strong>
                     </div>
                     <div>
                         <ul>
@@ -48,7 +48,7 @@ const Experience = () => {
                         </ul>
                     </div>
                     <div>
-                        Achievements:
+                         <strong>Achievements:</strong>
                     </div>
                     <div>
                         <ul>
@@ -76,7 +76,7 @@ const Experience = () => {
                         Infosys
                     </div>
                     <div>
-                        Responsibilities:
+                        <strong>Responsibilities:</strong>
                     </div>
                     <div>
                         <ul>

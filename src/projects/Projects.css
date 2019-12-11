@@ -1,0 +1,21 @@
+.projects {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right:20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+}
+
+.projectsInner {
+    margin :20px;
+    font-weight:bold;
+    line-height: 1.6;
+}
+
+@media (min-width: 480px) {
+    .projects{
+        text-align:left
+    }
+}

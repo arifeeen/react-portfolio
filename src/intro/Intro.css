@@ -4,6 +4,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
     color: white;
+    padding-right: 5px;
 }
 
 .nameSize {
@@ -11,9 +12,6 @@
 }
 .textSize {
     font-size: 16px;
-}
-.spanName {
-    
 }
 
 .spanData {

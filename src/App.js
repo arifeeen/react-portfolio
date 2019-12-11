@@ -3,6 +3,8 @@ import Intro from './intro/Intro';
 import Overall from './overall/Overall';
 import Tech from './tech-stack/Tech';
 import Experience from './experience/Experience';
+import Project from './projects/Projects';
+import Education from './education/Education';
 
 class App extends Component {
   render() {
@@ -13,8 +15,10 @@ class App extends Component {
 
       <Intro></Intro>
       <Overall></Overall>
-      <Tech></Tech>
       <Experience></Experience>
+      <Education></Education>
+      <Tech></Tech>
+      <Project></Project>
       </Fragment>
 
     );
