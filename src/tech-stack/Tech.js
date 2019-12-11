@@ -12,6 +12,9 @@ const Tech = () => {
             Angular 2/4/5/6 
             </p>
             <p>
+              Ionic
+            </p>
+            <p>
             Reactjs
             </p>
             <p>
